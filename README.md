@@ -8,7 +8,7 @@ The acceptance criteria was based on the following: When user desires to take a 
 
 ## Installation & Usage
 
-No installation required, access link below to access the Deployed Link. 
+No installation required, click link below to access the Deployed Link. 
 
 
 ## Deployed Webpage

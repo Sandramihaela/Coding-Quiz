@@ -4,33 +4,26 @@
 
 ## Description
 
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+The acceptance criteria was based on the following: When user desires to take a quiz, they can click a start button a timer start and the user is presented with question. Once first question is answered the user is told if the answer is correct . If incorrect, then 10 seconds are deducted from the timer and they are directed to the next question. Then when all questions are answered or when time expirers the game ends and the user enter initials and score.
 
-## Acceptance Criteria
+## Installation & Usage
 
-* A start button that when clicked a timer starts and the first question appears.
- 
-  * Questions contain buttons for each answer.
-  * 
-  * When answer is clicked, the next question appears
-  * 
-  * If the answer clicked was incorrect then subtract time from the clock
+No installation required, access link below to access the Deployed Link. 
 
-* The quiz should end when all questions are answered or the timer reaches 0.
 
-  * When the game ends, it should display their score and give the user the ability to save their initials and their score
-  
 ## Deployed Webpage
 ## https://sandramihaela.github.io/Coding-Quiz/
+
 
 ## Screenshot
 <img width="837" alt="Screenshot 2023-01-24 at 19 45 08" src="https://user-images.githubusercontent.com/117038215/214397246-8e4096d2-66d8-46ef-b232-f41b3bde679d.png">
 
 <img width="166" alt="Screenshot 2023-01-24 at 19 45 52" src="https://user-images.githubusercontent.com/117038215/214397263-379381e1-bbbc-4f54-a9b4-963acbae322d.png">
 
+## License 
+MIT License
+
+## Credits
+N/A
 
 
